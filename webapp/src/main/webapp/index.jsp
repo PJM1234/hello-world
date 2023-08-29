@@ -1,7 +1,12 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>4gl Register</h1>
     <p>Please fill in this form to create an account!</p>
+=======
+    <h1>5gl Register</h1>
+    <p>Please fill in this form to create an account.</p>
+>>>>>>> 26c17ed4ff475d5b3ee45d4a528459c6e9dfbbb1
     <hr>
 
     <label for="email"><b>Email</b></label>
